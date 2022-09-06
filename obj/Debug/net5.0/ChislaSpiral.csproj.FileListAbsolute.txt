@@ -1,0 +1,16 @@
+C:\Users\zerqw\source\repos\ChislaSpiral\bin\Debug\net5.0\ChislaSpiral.exe
+C:\Users\zerqw\source\repos\ChislaSpiral\bin\Debug\net5.0\ChislaSpiral.deps.json
+C:\Users\zerqw\source\repos\ChislaSpiral\bin\Debug\net5.0\ChislaSpiral.runtimeconfig.json
+C:\Users\zerqw\source\repos\ChislaSpiral\bin\Debug\net5.0\ChislaSpiral.runtimeconfig.dev.json
+C:\Users\zerqw\source\repos\ChislaSpiral\bin\Debug\net5.0\ChislaSpiral.dll
+C:\Users\zerqw\source\repos\ChislaSpiral\bin\Debug\net5.0\ref\ChislaSpiral.dll
+C:\Users\zerqw\source\repos\ChislaSpiral\bin\Debug\net5.0\ChislaSpiral.pdb
+C:\Users\zerqw\source\repos\ChislaSpiral\obj\Debug\net5.0\ChislaSpiral.csproj.AssemblyReference.cache
+C:\Users\zerqw\source\repos\ChislaSpiral\obj\Debug\net5.0\ChislaSpiral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerqw\source\repos\ChislaSpiral\obj\Debug\net5.0\ChislaSpiral.AssemblyInfoInputs.cache
+C:\Users\zerqw\source\repos\ChislaSpiral\obj\Debug\net5.0\ChislaSpiral.AssemblyInfo.cs
+C:\Users\zerqw\source\repos\ChislaSpiral\obj\Debug\net5.0\ChislaSpiral.csproj.CoreCompileInputs.cache
+C:\Users\zerqw\source\repos\ChislaSpiral\obj\Debug\net5.0\ChislaSpiral.dll
+C:\Users\zerqw\source\repos\ChislaSpiral\obj\Debug\net5.0\ref\ChislaSpiral.dll
+C:\Users\zerqw\source\repos\ChislaSpiral\obj\Debug\net5.0\ChislaSpiral.pdb
+C:\Users\zerqw\source\repos\ChislaSpiral\obj\Debug\net5.0\ChislaSpiral.genruntimeconfig.cache
